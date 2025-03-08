@@ -1,4 +1,4 @@
-# Raspberry Pi Troubleshooting Project
+# Raspberry Pi Troubleshooting for Embedded Projects
 
 <p>
  <img src="https://user-images.githubusercontent.com/45159366/121087087-d5272180-c798-11eb-8c9a-16c32d2c7454.png">
